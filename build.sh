@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 _name="docker_php"
 _tag="0.0.1"
