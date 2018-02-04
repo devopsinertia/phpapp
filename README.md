@@ -1,10 +1,8 @@
-Docker Php Jenkins
-----------
+# Welcome to Docker Php Jenkins!
 
 This repository allows for creating a **Containerized PHP Application** by a shell script. Moreover, it can be used for testing in **Jenkins**.
 
-Docker :whale:
-------
+## Docker :whale:
 
 First of all, it is necessary to install **Docker** on the machine ( [More Information](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/) ).
 
@@ -14,8 +12,7 @@ Having done that, run **build.sh**.
 
     ./build.sh
 
-Jenkins :man:
--------
+## Jenkins :man:
 
 First of all, it is necessary to install **Jenkins** on the machine ( [More Information](https://jenkins.io/download/) ).
 
