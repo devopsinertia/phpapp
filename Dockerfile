@@ -1,5 +1,7 @@
 FROM php:7.0-apache
 
-MAINTAINER Rodrigo Porto version:0.0.1
+# Docker labels
+LABEL maintainer="https://github.com/rdrgporto" \
+description="Dockerizing a PHP Application"
 
 COPY app /var/www/html/
