@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signup</title>
+    <title>SignUp</title>
     <link rel="stylesheet" type="text/css" href="css/signupstyle.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/navbar.css">
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
