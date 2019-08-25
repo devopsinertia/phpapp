@@ -19,7 +19,7 @@
   <div class="form-container">
   <div class="data-container">
     <form action="signupprocess.php" method="post">
-        <div class="header"><h1>Signup</h1></div>
+        <div class="header"><h1>SignUp</h1></div>
       <div class="wrapper1">
   <input type="text" name="firstname" value="" placeholder="Firstname" required>
   <input type="text" name="lastname" value="" placeholder="Lastname">
